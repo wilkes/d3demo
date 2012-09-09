@@ -10,6 +10,9 @@
     (server/start port {:mode :dev
                         :ns 'd3-demo})))
 
+(defn -main [port]
+  (run-server (Integer. port)))
+
 (comment
   (do
     (use 'd3demo.core)

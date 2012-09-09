@@ -9,6 +9,7 @@
                  [fetch "0.1.0-alpha2"]
                  [org.clojure/clojure "1.4.0"]]
   :plugins [[lein-cljsbuild "0.2.7"]]
+  :main d3demo.core
   :cljsbuild {:builds
               [{:source-path "src"
                 :compiler {:output-to "resources/public/js/main-debug.js"
