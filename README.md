@@ -1,13 +1,11 @@
 # d3-demo
 
-A Clojure library designed to ... well, that part is up to you.
+Simple D3 demo built in clojurescript.  It's a port from http://www.12devsofxmas.co.uk/2012/01/data-visualisation/
 
-## Usage
-
-FIXME
+http://young-tundra-2054.herokuapp.com/
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 Wilkes Joiner
 
 Distributed under the Eclipse Public License, the same as Clojure.
